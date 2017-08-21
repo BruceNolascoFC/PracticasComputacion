@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Tema 1: LaTeX}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Subtema LaTeX}{4}{0}{1}
+\beamer@sectionintoc {2}{Tema 2: Integrales}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Imagenes}{6}{0}{2}
+\beamer@sectionintoc {3}{Tema 3: Python}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{Listas}{8}{0}{3}
+\beamer@subsectionintoc {3}{2}{Listas numeradas}{9}{0}{3}
+\beamer@subsectionintoc {3}{3}{Entorno de Sistemas de Ecuaciones}{10}{0}{3}
